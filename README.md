@@ -1,5 +1,11 @@
-## Hi there 👋
+## About Me
+Hi there! I'm Bipin Poudel, a Ph.D. candidate in Statistics at the University of Nebraska-Lincoln, where I focus on statistical modeling, data analysis, and consulting. With a passion for uncovering insights through data, I specialize in areas like Linear/Generalized Linear Mixed Models, Design of Experiments, and Machine Learning techniques.
 
+I bring a rich background in research and teaching, having worked on cross-disciplinary projects as a statistical consultant and instructor. My hands-on experience spans teaching statistics at both undergraduate and graduate levels and conducting impactful research, such as studying adverse events post-COVID-19 vaccination and analyzing stress factors among graduate students—work that has been featured in peer-reviewed journals.
+
+Proficient in R, SAS, SQL, and various visualization tools, I thrive on making data accessible and meaningful. Whether it's crafting reproducible research workflows, collaborating on diverse projects, or mentoring students, I'm always excited to tackle new challenges in data science and statistics.
+
+Outside of academia, I enjoy contributing to open-source projects, exploring new analytical techniques, and sharing my knowledge with the community. Let's connect and explore how data can drive meaningful change!
 <!--
 **Beepin7/Beepin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
